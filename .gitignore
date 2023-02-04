@@ -1,0 +1,8 @@
+Lib/*
+__pycache__/*
+pyvenv*
+Include/*
+Scripts/*
+share/*
+kaggle.json
+the-simpsons-characters-dataset/
